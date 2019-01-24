@@ -8,10 +8,10 @@ class App extends Component {
     return (
       <View style={styles.app}>
         <View style={styles.appHeader}>
-          <Text style={styles.appBanner}>Welcome to Rax</Text>
+          <Text style={styles.appBanner}>第二个页面</Text>
         </View>
         <Text style={styles.appIntro}>
-          To get started, edit src/App.js and save to reload.
+          我是第二个页面
         </Text>
       </View>
     );
